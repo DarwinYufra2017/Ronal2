@@ -1,2 +1,0 @@
-# ronal
-Personal
